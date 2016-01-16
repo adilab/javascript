@@ -28,4 +28,5 @@ Documentation
 ----------
 
 [Quick start](http://adilab.net/projects/javascript/quick-start/)
+
 [API documentacion](http://adilab.net/projects/javascript/doc/api/)
