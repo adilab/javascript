@@ -1,0 +1,20 @@
+{
+    "name": "adilab/javascript",
+    "description": "Adi JavaScript Tools for PHP",
+    "homepage": "https://github.com/adilab/javascript.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Zurkiewicz",
+            "email": "adrian@adilab.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/adilab/javascript/issues"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
