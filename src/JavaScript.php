@@ -137,7 +137,8 @@ class JavaScript {
 	/**
 	 * Return url to use as href
 	 * 
-	 * Warning! This method can be used only with simple JavaScript constructions. Complex constructions may need to create a function and use getUrl method.
+	 * Warning! This method can be used only with simple JavaScript constructions. 
+	 * Complex constructions may need to create a function and use getUrl method.
 	 * 
 	 * <code>
 	 * $url = JavaScript::edit($module, $key)->asUrl();
