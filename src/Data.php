@@ -2,7 +2,6 @@
 
 /**
  *
- *
  * AdiPHP : Rapid Development Tools (http://adilab.net)
  * Copyright (c) Adrian Zurkiewicz
  *
