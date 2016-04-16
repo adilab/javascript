@@ -29,4 +29,4 @@ Documentation
 
 [Quick start](http://adilab.net/projects/javascript/quick-start/)
 
-[API documentacion](http://adilab.net/projects/javascript/doc/api/)
+[API documentacion](http://adilab.net/projects/api/namespace-Adi.JavaScript.html)
